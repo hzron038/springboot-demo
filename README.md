@@ -1,2 +1,2 @@
 # springboot-demo
-Project on how spring boot works, posgresql, RESTful APIS.
+Project on how spring boot works, posgresql, RESTful APIs.
